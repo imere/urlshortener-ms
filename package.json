@@ -1,0 +1,19 @@
+{
+  "name": "@imere/urlshortener-ms",
+  "version": "1.0.0",
+  "description": ">User stories: >- I can pass a URL as a parameter and I will receive a shortened URL in the JSON response. >- When I visit that shortened URL, it will redirect me to my original link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imere/urlshortener-ms.git"
+  },
+  "author": "imere",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/imere/urlshortener-ms/issues"
+  },
+  "homepage": "https://github.com/imere/urlshortener-ms#readme"
+}
