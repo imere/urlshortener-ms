@@ -6,8 +6,8 @@
 
 ### Example creation usage:
 
-	https://im-urlshortener-ms.herokuapp.com/new/https://www.google.com 
-	https://im-urlshortener-ms.herokuapp.com/new/http://freecodecamp.com/news 
+[https://im-urlshortener-ms.herokuapp.com/new/https://www.google.com ](https://im-urlshortener-ms.herokuapp.com/new/https://www.google.com)
+[https://im-urlshortener-ms.herokuapp.com/new/http://freecodecamp.com/news ](https://im-urlshortener-ms.herokuapp.com/new/http://freecodecamp.com/news)
 
 ##### If you want to pass a site that doesn't exist (or an invalid url) for some reason you can do:
 
